@@ -26,11 +26,13 @@ const Calculation=(x,y)=>{
 const result = Calculation(3,4);
 console.log(result);
 
-*/
-
-
+//three dots
 const arr = [1,2,4];
 const arr2 = [3,35,5];
 //const arrTogether = arr.concat(arr2).concat(555);
 const addArray = [...arr, ...arr2];
 console.log(addArray);
+
+*/
+
+
